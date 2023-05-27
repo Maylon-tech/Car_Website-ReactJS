@@ -1,0 +1,53 @@
+.find {
+    height: 80vh;
+    max-width: 1040px;
+    margin: auto;
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 4rem;
+    padding: 2rem;
+}
+
+.heading .text_bg {
+    background-color: rgba(173, 199, 25, 0.5);
+    height: 30px;
+    max-width: 650px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.heading .text_bg p {
+    font-size: 1.4rem;
+    margin-top: -.6rem;
+    text-align: center;
+}
+
+.heading .text_bg p span {
+    text-align: center;
+}
+
+.slider_container {
+    padding: 5rem 0;
+}
+
+
+
+.card {
+    margin: .5rem;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: 3px solid olive;
+}
+
+.card img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 200px;
+    object-fit: contain;
+}
+
